@@ -75,4 +75,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 --- 
 
-This structured format ensures clarity and easy navigation.
+
